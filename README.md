@@ -17,6 +17,17 @@
   
 </div>
 
-## Membros
-<img src="https://opencollective.com/TSwiftDSM/contributors.svg?width=890&button=false" />
+## Membros:
+<div>
+<a href="https://github.com/ymosena"><img src="https://avatars.githubusercontent.com/u/111094893?v=4" align="center" height="50" width="50"></a>
+<a href="https://github.com/JacklesKerley"><img src="https://avatars.githubusercontent.com/u/100358141?v=4" align="center" height="50" width="50"></a>
+<a href="https://github.com/Vitaog"><img src="https://avatars.githubusercontent.com/u/86271800?v=4" align="center" height="50" width="50"></a>
+<a href="https://github.com/dosantos-ogabriel"><img src="https://avatars.githubusercontent.com/u/92482112?v=4" align="center" height="50" width="50"></a>
+<a href="https://github.com/otavioabreu27"><img src="https://avatars.githubusercontent.com/u/54289303?v=4" align="center" height="50" width="50"></a>
+<a href="https://github.com/Miguel-C1"><https://avatars.githubusercontent.com/u/104818982?v=4" align="center" height="50" width="50"></a>
+<a href="https://github.com/elaineads"><img src="https://avatars.githubusercontent.com/u/105312914?v=4" align="center" height="50" width="50"></a>
+<a href="https://github.com/JacklesKerley"><img src="https://avatars.githubusercontent.com/u/100358141?v=4" align="center" height="50" width="50"></a>
+</div>
 
+## Estatisticas
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TSwiftDSM&layout=compact&langs_count=7&theme=github_dark"/>
