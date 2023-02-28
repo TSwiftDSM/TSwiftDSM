@@ -4,7 +4,7 @@
 </em></p>
 
 
-### <img src="https://media.giphy.com/media/j3cfd9l4noFrKQI7KN/giphy.gif" width="30"> Tecnologias utilizadas:
+## Tecnologias utilizadas:
 <div>
 <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -13,7 +13,10 @@
  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
+ <img align="center" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   
 </div>
 
-##
+## Membros
+<img src="https://opencollective.com/TSwiftDSM/contributors.svg?width=890&button=false" />
+
