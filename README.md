@@ -29,5 +29,3 @@
 <a href="https://github.com/dmssjk"><img src="https://avatars.githubusercontent.com/u/106353031?v=4" align="center" height="50" width="50"></a>
 </div>
 
-## Estatisticas
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TSwiftDSM&layout=compact&langs_count=7&theme=github_dark"/>
