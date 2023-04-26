@@ -25,7 +25,6 @@
 <a href="https://github.com/dosantos-ogabriel"><img src="https://avatars.githubusercontent.com/u/92482112?v=4" align="center" height="50" width="50"></a>
 <a href="https://github.com/otavioabreu27"><img src="https://avatars.githubusercontent.com/u/54289303?v=4" align="center" height="50" width="50"></a>
 <a href="https://github.com/Miguel-C1"><img src ="https://avatars.githubusercontent.com/u/104818982?v=4" align="center" height="50" width="50"></a>
-<a href="https://github.com/elaineads"><img src="https://avatars.githubusercontent.com/u/105312914?v=4" align="center" height="50" width="50"></a>
 <a href="https://github.com/dmssjk"><img src="https://avatars.githubusercontent.com/u/106353031?v=4" align="center" height="50" width="50"></a>
 </div>
 
